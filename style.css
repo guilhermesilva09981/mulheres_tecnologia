@@ -70,7 +70,7 @@ img {
     display: block;                            /* Faz a imagem se comportar como um bloco para aplicar margens. */
     margin: 20px auto;                         /* Adiciona margem no topo/base e centraliza horizontalmente. */
     border-radius: 8px;                        /* Arredonda as bordas da imagem. */
-    width: 10px;
+    width: 100px;
 }
 
 /* Seletor vazio que você pediu, pronto para uso futuro */
